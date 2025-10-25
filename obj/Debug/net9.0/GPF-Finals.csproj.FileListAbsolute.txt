@@ -1,0 +1,15 @@
+C:\Users\elror\ForsbergsSkola\game-programming-fundamentals-finals-ValenVier\bin\Debug\net9.0\GPF-Finals.exe
+C:\Users\elror\ForsbergsSkola\game-programming-fundamentals-finals-ValenVier\bin\Debug\net9.0\GPF-Finals.deps.json
+C:\Users\elror\ForsbergsSkola\game-programming-fundamentals-finals-ValenVier\bin\Debug\net9.0\GPF-Finals.runtimeconfig.json
+C:\Users\elror\ForsbergsSkola\game-programming-fundamentals-finals-ValenVier\bin\Debug\net9.0\GPF-Finals.dll
+C:\Users\elror\ForsbergsSkola\game-programming-fundamentals-finals-ValenVier\bin\Debug\net9.0\GPF-Finals.pdb
+C:\Users\elror\ForsbergsSkola\game-programming-fundamentals-finals-ValenVier\obj\Debug\net9.0\GPF-Finals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elror\ForsbergsSkola\game-programming-fundamentals-finals-ValenVier\obj\Debug\net9.0\GPF-Finals.AssemblyInfoInputs.cache
+C:\Users\elror\ForsbergsSkola\game-programming-fundamentals-finals-ValenVier\obj\Debug\net9.0\GPF-Finals.AssemblyInfo.cs
+C:\Users\elror\ForsbergsSkola\game-programming-fundamentals-finals-ValenVier\obj\Debug\net9.0\GPF-Finals.csproj.CoreCompileInputs.cache
+C:\Users\elror\ForsbergsSkola\game-programming-fundamentals-finals-ValenVier\obj\Debug\net9.0\GPF-Finals.sourcelink.json
+C:\Users\elror\ForsbergsSkola\game-programming-fundamentals-finals-ValenVier\obj\Debug\net9.0\GPF-Finals.dll
+C:\Users\elror\ForsbergsSkola\game-programming-fundamentals-finals-ValenVier\obj\Debug\net9.0\refint\GPF-Finals.dll
+C:\Users\elror\ForsbergsSkola\game-programming-fundamentals-finals-ValenVier\obj\Debug\net9.0\GPF-Finals.pdb
+C:\Users\elror\ForsbergsSkola\game-programming-fundamentals-finals-ValenVier\obj\Debug\net9.0\GPF-Finals.genruntimeconfig.cache
+C:\Users\elror\ForsbergsSkola\game-programming-fundamentals-finals-ValenVier\obj\Debug\net9.0\ref\GPF-Finals.dll
